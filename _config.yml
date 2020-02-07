@@ -1,0 +1,26 @@
+# Site settings
+name: Blog
+email: 164389397@qq.com
+author: Shengzhi Huang
+url: https://hsz19941021.github.io
+resume_site: https://hsz19941021.github.io
+github: https://github.com/hsz19941021
+baseurl: ""
+description: Actually, less is more!
+meta_description: 黄圣之;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: 学而不思则罔，思而不学则殆。
+banner: 生命不止;折腾不休。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: hsz19941021
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 3258f21cbaf0414185c2a9bbf2270707
+
