@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slots游戏大小节点bonus玩法平均bet设计规则
-date:   2021-01-10
+date:   2021-03-21
 categories: 数值
 tag: 设计
 ---
